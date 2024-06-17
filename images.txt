@@ -12,3 +12,5 @@ nextcloud
 linuxserver/nextcloud
 nextcloud/all-in-one:latest
 outlovecn/portainer-cn
+# 自建 pushdeer通知
+bitnami/redis:latest
